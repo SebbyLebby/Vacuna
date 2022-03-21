@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+h1.maintitle {
+    color: #3050cd;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.links {
+    margin: 30;
+}
+
+.hoax {
+    margin-right: 80px;
+}
+
+.introduccion {
+    float:left
+}
+
+.introduccion p.main1 {
+    font-size: 50px;
+    margin-top: 70px;
+    margin-left: 100px;
+
+}
+
+.introduccion p.main2 {
+    font-size: 50px;
+    margin-left: 100px;
+
+}
+
+.introduccion p.introtext1 {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.introduccion p.introtext2 {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.introduccion p.introtext3 {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.introduccion .submenu1{
+    
+    float: left;
+    margin-top: 30px;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.introduccion .clock{
+    
+    float: left;
+    margin-top: 180px;
+    display: flex;
+    
+}
+
+.fondo {
+    background: #3050cd;
+    float: right;
+    width: 700px;
+    height: 650px;
+}
+
+.imagen_doctora{
+    text-align: center;
+}
+
+
+
+
+
+
